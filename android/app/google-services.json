@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98214571932",
+    "project_id": "my-healthy-b4fbc",
+    "storage_bucket": "my-healthy-b4fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98214571932:android:63f4fd7cbc29c571b6e259",
+        "android_client_info": {
+          "package_name": "com.example.my_healthy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByaP0Ke68a69lhHYO6gyAE-08-tyHIuMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98214571932:android:f5331f7575aa6c9fb6e259",
+        "android_client_info": {
+          "package_name": "com.example.myhealthyfood_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByaP0Ke68a69lhHYO6gyAE-08-tyHIuMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
